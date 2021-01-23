@@ -13,7 +13,7 @@ The basic installation of cryptography package is achieved through following com
 ```pip install cryptography```
 
 ## Reverse Cipher
-Thuật toán mật mã đảo ngược
+Reverse Cipher Algorithm
 
 https://github.com/trudo311399/Cryptography-with-python/blob/master/reverseCipher.py
 
@@ -48,8 +48,6 @@ https://github.com/trudo311399/Cryptography-with-python/blob/master/transpositio
 In Python, it is possible to encrypt and decrypt files before transmitting to a communication channel. For this, you will have to use the plugin **pycrypto**. You can installation this plugin using the command given below.
 
 ``` pip install pycrypto```
-
-Code
 
 https://github.com/trudo311399/Cryptography-with-python/blob/master/pyfilecipher-encrypt.py
 
