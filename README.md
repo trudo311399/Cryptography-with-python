@@ -41,8 +41,6 @@ The main usage of **pyperclip** plugin in Python programming language is to perf
 
 ```pip install pyperclip```
 
-Code
-
 https://github.com/trudo311399/Cryptography-with-python/blob/master/transpositionEncrypt.py
 
 ## Decryption of Transposition Cipher
