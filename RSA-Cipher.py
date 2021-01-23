@@ -44,7 +44,7 @@ def sign(message, priv_key, hashAlg='SHA256'):
     digest.update(message)
     return signer.sign(digest)
 
-def verufy(message, signature, pub_key):
+def verify(message, signature, pub_key):
     signer = PKCS1_v1_5.new(pub_key)
     if hash == 'SHA-512':
         digest = SHA512.new()
