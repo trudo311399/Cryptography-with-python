@@ -1,0 +1,6 @@
+cryptography
+pyperclip
+pycrypto
+onetimepad
+pyDES
+
